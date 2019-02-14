@@ -1,2 +1,3 @@
 # Omnifood
-# 13.02.2019 Section "Section-cities" finished styling
+# 14.02.2019 
+# Section "Section-testimonials" finished html structure
