@@ -1,3 +1,3 @@
 # Omnifood
-# 15.02.2019 
-# Section "Section-plans" styling finished
+# 17.02.2019 
+# Section "Section-form" finished html structure
