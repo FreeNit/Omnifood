@@ -1,3 +1,3 @@
 # Omnifood
-# 18.02.2019 
-# Section "Footer" styling finished
+# 25.02.2019 
+# Finished media-queries (responsive design)
